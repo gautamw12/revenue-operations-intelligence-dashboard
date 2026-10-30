@@ -1,0 +1,5 @@
+category,is_revenue_bearing,in_workbook_total_tickets,definition
+Paid,True,True,"Ticket line value <> 0, ticket type not Sponsor/Speaker"
+Free (FOC),False,True,"Ticket line value = 0, ticket type not Sponsor/Speaker"
+Sponsor,False,False,"Ticket type contains ""Sponsor"""
+Speaker,False,False,"Ticket type contains ""Speaker"""

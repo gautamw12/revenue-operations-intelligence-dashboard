@@ -1,0 +1,15 @@
+edition_id,revenue_target_local,ticket_target,paid_ticket_target,note
+NM-CLF-2026,48500.0,188,105,SYNTHETIC target for demonstration
+NM-CLF-2025,69500.0,347,149,SYNTHETIC target for demonstration
+NM-CLF-2024,61000.0,314,156,SYNTHETIC target for demonstration
+NM-AF-2026,23500.0,88,43,SYNTHETIC target for demonstration
+NM-AF-2025,22500.0,93,45,SYNTHETIC target for demonstration
+WV-CLF-2026,9500.0,295,21,SYNTHETIC target for demonstration
+WV-CLF-2025,10000.0,220,29,SYNTHETIC target for demonstration
+WV-CLF-2024,8000.0,201,28,SYNTHETIC target for demonstration
+EP-CLF-2026,60000.0,183,77,SYNTHETIC target for demonstration
+EP-CLF-2025,41000.0,165,59,SYNTHETIC target for demonstration
+EP-CLF-2024,42000.0,163,52,SYNTHETIC target for demonstration
+SL-CLF-2026,7000.0,165,21,SYNTHETIC target for demonstration
+SL-CLF-2025,15500.0,137,43,SYNTHETIC target for demonstration
+SL-CLF-2024,13500.0,124,47,SYNTHETIC target for demonstration

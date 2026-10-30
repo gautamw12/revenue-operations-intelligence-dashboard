@@ -1,0 +1,7 @@
+excl_reason,lines,tickets,value_local_mixed_ccy
+Included,2533,2718,368840.0
+Cancelled / voided / refunded,154,161,16642.35
+"Test or ""Not to use"" event",719,754,0.0
+VAT / fee / donation line,201,211,18044.38
+Outside 40-week sales window (excluded by workbook),1,1,2125.72
+Programme/edition not tracked in country tabs,157,164,11149.87

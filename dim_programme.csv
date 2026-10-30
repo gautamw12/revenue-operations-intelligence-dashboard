@@ -1,0 +1,6 @@
+programme_id,programme_name,country_code,country_name,series,series_name,currency,session_split
+NM-CLF,Commerce Leaders Forum Northmark,NM,Northmark,CLF,Commerce Leaders Forum,USD,Day 1 / Day 2
+NM-AF,Analytics Forum Northmark,NM,Northmark,AF,Analytics Forum,USD,None
+WV-CLF,Commerce Leaders Forum Westvale,WV,Westvale,CLF,Commerce Leaders Forum,EUR,Day 1 / Day 2
+EP-CLF,Commerce Leaders Forum Eastport,EP,Eastport,CLF,Commerce Leaders Forum,AUD,Stream A / Stream B (2026)
+SL-CLF,Commerce Leaders Forum Southland,SL,Southland,CLF,Commerce Leaders Forum,GBP,None

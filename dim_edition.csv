@@ -1,0 +1,15 @@
+edition_id,programme_id,programme_name,country_code,country_name,series,series_name,edition_year,event_date,window_start,window_end,event_date_estimated,currency,fx_per_base,session_split,status_at_asof
+NM-CLF-2026,NM-CLF,Commerce Leaders Forum Northmark,NM,Northmark,CLF,Commerce Leaders Forum,2026,2026-05-07,2025-07-28,2026-05-10,False,USD,1.0,Day 1 / Day 2,Completed
+NM-CLF-2025,NM-CLF,Commerce Leaders Forum Northmark,NM,Northmark,CLF,Commerce Leaders Forum,2025,2025-04-29,2024-07-22,2025-05-04,False,USD,1.0,Day 1 / Day 2,Completed
+NM-CLF-2024,NM-CLF,Commerce Leaders Forum Northmark,NM,Northmark,CLF,Commerce Leaders Forum,2024,2024-04-29,2023-07-24,2024-05-05,False,USD,1.0,Day 1 / Day 2,Completed
+NM-AF-2026,NM-AF,Analytics Forum Northmark,NM,Northmark,AF,Analytics Forum,2026,2026-11-27,2026-02-16,2026-11-29,False,USD,1.0,None,Live
+NM-AF-2025,NM-AF,Analytics Forum Northmark,NM,Northmark,AF,Analytics Forum,2025,2025-12-01,2025-02-24,2025-12-07,False,USD,1.0,None,Completed
+WV-CLF-2026,WV-CLF,Commerce Leaders Forum Westvale,WV,Westvale,CLF,Commerce Leaders Forum,2026,2026-09-06,2025-11-24,2026-09-06,False,EUR,0.92,Day 1 / Day 2,Completed
+WV-CLF-2025,WV-CLF,Commerce Leaders Forum Westvale,WV,Westvale,CLF,Commerce Leaders Forum,2025,2025-09-16,2024-12-09,2025-09-21,False,EUR,0.92,Day 1 / Day 2,Completed
+WV-CLF-2024,WV-CLF,Commerce Leaders Forum Westvale,WV,Westvale,CLF,Commerce Leaders Forum,2024,2024-09-17,2023-12-11,2024-09-22,False,EUR,0.92,Day 1 / Day 2,Completed
+EP-CLF-2026,EP-CLF,Commerce Leaders Forum Eastport,EP,Eastport,CLF,Commerce Leaders Forum,2026,2026-11-13,2026-02-02,2026-11-15,False,AUD,1.52,Stream A / Stream B (2026),Live
+EP-CLF-2025,EP-CLF,Commerce Leaders Forum Eastport,EP,Eastport,CLF,Commerce Leaders Forum,2025,2025-11-21,2025-02-10,2025-11-23,False,AUD,1.52,Stream A / Stream B (2026),Completed
+EP-CLF-2024,EP-CLF,Commerce Leaders Forum Eastport,EP,Eastport,CLF,Commerce Leaders Forum,2024,2024-12-16,2024-03-11,2024-12-22,False,AUD,1.52,Stream A / Stream B (2026),Completed
+SL-CLF-2026,SL-CLF,Commerce Leaders Forum Southland,SL,Southland,CLF,Commerce Leaders Forum,2026,2026-10-19,2026-01-12,2026-10-25,False,GBP,0.79,None,Completed
+SL-CLF-2025,SL-CLF,Commerce Leaders Forum Southland,SL,Southland,CLF,Commerce Leaders Forum,2025,2025-11-02,2025-01-20,2025-11-02,False,GBP,0.79,None,Completed
+SL-CLF-2024,SL-CLF,Commerce Leaders Forum Southland,SL,Southland,CLF,Commerce Leaders Forum,2024,2024-11-02,2024-01-22,2024-11-03,False,GBP,0.79,None,Completed

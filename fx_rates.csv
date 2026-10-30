@@ -1,0 +1,5 @@
+currency,units_per_usd,source
+USD,1.0,Illustrative synthetic rate
+EUR,0.92,Illustrative synthetic rate
+GBP,0.79,Illustrative synthetic rate
+AUD,1.52,Illustrative synthetic rate
